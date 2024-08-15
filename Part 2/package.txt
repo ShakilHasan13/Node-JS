@@ -1,0 +1,10 @@
+npm init --y
+it will create a file named package.json
+[inside the file, there is a part named script.
+We can add a property there so that we need not to 
+write node main.js again and again.
+We can add there: "start":"node main.js"
+After adding this, all we need to write in the 
+terminal is: npm start to run the server]
+ 
+
